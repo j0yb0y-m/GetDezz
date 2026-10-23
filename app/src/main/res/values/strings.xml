@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">GetDezz</string>
+    <string name="tab_downloads">Downloads</string>
+    <string name="tab_settings">Settings</string>
+
+    <string name="engine_initializing">Initializing engine...</string>
+    <string name="engine_ready">Engine ready</string>
+    <string name="engine_failed">Engine error</string>
+
+    <string name="url_hint">Paste link here...</string>
+    <string name="btn_paste">Paste</string>
+    <string name="btn_fetch">Fetch</string>
+    <string name="btn_start_download">Start Download</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_delete">Delete</string>
+    <string name="btn_preview">Preview</string>
+    <string name="btn_open">Open</string>
+    <string name="btn_clear_finished">Clear Finished</string>
+    <string name="btn_check_update">Check for yt-dlp update</string>
+
+    <string name="download_queued">Queued</string>
+    <string name="download_downloading">Downloading</string>
+    <string name="download_processing">Processing...</string>
+    <string name="download_completed">Completed</string>
+    <string name="download_failed">Failed</string>
+    <string name="download_cancelled">Cancelled</string>
+
+    <string name="format_video">Video</string>
+    <string name="format_audio">Audio</string>
+    <string name="label_format">Format</string>
+    <string name="label_quality">Quality</string>
+
+    <string name="section_active">Active Downloads</string>
+    <string name="section_history">Finished Library</string>
+    <string name="empty_downloads">No downloads yet. Paste a link to start!</string>
+
+    <string name="setting_max_parallel">Max Parallel Downloads</string>
+    <string name="setting_update_channel">yt-dlp Update Channel</string>
+    <string name="setting_default_video">Default Video Format</string>
+    <string name="setting_default_audio">Default Audio Format</string>
+    <string name="setting_embed_metadata">Embed Metadata</string>
+    <string name="setting_embed_thumbnail">Embed Thumbnail</string>
+    <string name="setting_use_aria2c">Use aria2c Downloader</string>
+</resources>
